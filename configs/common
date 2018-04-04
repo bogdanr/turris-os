@@ -323,3 +323,6 @@ CONFIG_BUSYBOX_CONFIG_USE_BB_CRYPT_SHA=y
 
 # Keep SSLv3 for now
 CONFIG_OPENSSL_WITH_SSL3=y
+
+CONFIG_PACKAGE_foris-controller-pakon-module=m
+CONFIG_PACKAGE_foris-pakon-plugin=m
